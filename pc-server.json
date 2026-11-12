@@ -1,0 +1,10 @@
+{
+  "name": "SHARP PC Server",
+  "version": "1.0.0",
+  "file": "SHARP-PC-Server-1.0.0-win64.zip",
+  "size": 6273263,
+  "sha256": "5563b08162f72c0e13ad17beedfb416de8ddd20f12903915f01dfab4548707f8",
+  "python": "3.12.10",
+  "builtAt": "2026-11-12T23:49:23Z",
+  "source": "1fffb71"
+}
