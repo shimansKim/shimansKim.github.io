@@ -1,0 +1,1 @@
+self.__SHARP_PRECACHE={"version":"d9aa02bd03","urls":["./","manifest.webmanifest","icons/icon-192.png","icons/icon-512.png","icons/icon-maskable-512.png","icons/apple-touch-icon.png","assets/index-CAzqV4DB.js","assets/index-G7s8AU5M.css","assets/spark.module-BHn3E0b0.js"]};
